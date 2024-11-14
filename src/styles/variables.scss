@@ -1,0 +1,129 @@
+#root {
+  $sp-primary: #627a7a;
+  $sp-secondary: #009d33;
+  $sp-background: #fff;
+  $sp-font-family: 'Roboto';
+}
+
+// Global classes for Branding
+// $primary: var(--sp-primary);
+$sp-font-family: 'Roboto';
+$primary: #133332;
+$primaryLight: #88dea67a;
+$primaryGradient: linear-gradient(
+  90deg,
+  rgba(19, 51, 50, 0.9640231092436975) 24%,
+  rgba(17, 65, 50, 0.7567401960784313) 71%,
+  rgba(0, 157, 51, 0.6783088235294117) 96%
+);
+
+$white: #fff;
+$green: #009d33;
+$DarkGray: #1b1b1b;
+$DarkGrey: #3f3f46;
+$Grya: #444444;
+$lightGrey: #fcfcfc;
+$secondary: #627a7a;
+$Grey900: #1b1b1b;
+$Grey600: #444444;
+$Grey200: #eaecf0;
+$DrakGrey2: #475467;
+$grey: #475467;
+$Orenge: #ff6825;
+$offGrey: #edeef0;
+$red: #f04437;
+$pink: #e3315a;
+$pinkLight: #fff6f8;
+$black: #000000;
+$grey8a: #8a8a8a;
+
+$grey41: #fafafa;
+$grey84: #848484;
+$grey64: #646464;
+$greyfe: #f0f0f0;
+$greyd9: #d9d9d9;
+$skyBlue: #2ecce9;
+$skyBluecc: #1fb2cc;
+$bluec9: #0082c9;
+$bluea0: #056aa0;
+$darkBlue6e: #103f6e;
+$darkBlueA5: #6b88a5;
+$lightBlue: #e8f3fb;
+$yellow: #f7c502;
+$lightYellow: #ffefbe;
+$darkYellow: #b39537;
+
+$fs14: 14px;
+$fs20: 20px;
+$fs30: 30px;
+$fs38: 38px;
+$fs48: 48px;
+
+$lh20: 20px;
+
+$space10: 10px;
+$space20: 20px;
+$space30: 30px;
+
+$text-uppercase: uppercase;
+$text-capitalize: capitalize;
+
+$bdr0: none;
+$bdr1: 1px;
+
+$absolute: absolute;
+$relative: relative;
+$fixed: fixed;
+
+$theme-transition: all 0.3s ease;
+
+$pointer: pointer;
+
+$flex: flex;
+$block: block;
+$none: none;
+$inlineBlock: inline-block;
+$alignCenter: center;
+$justifyCenter: center;
+$justifyBetween: space-between;
+$column: column;
+
+$border-radius-xs: 0.3rem;
+$border-radius: 0.5rem;
+$border-radius-sm: 0.5rem;
+$border-radius-lg: 0.3rem;
+
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+
+$defaultRadius: 8px;
+
+$sm: 565px;
+$md: 767px;
+$lg: 991px;
+$xl: 1199px;
+$xxl: 1439px;
+$xxxl: 1599px;
+$xxxxl: 1700px;
+
+$color_1: #716f6f;
+$color_2: #000;
+$color_3: #ffd201;
+$color_4: #fff;
+$color_5: #26292a;
+$color_6: #627a7a;
+$color_7: #b4b4b4;
+$color_8: #495057;
+$font-family_1: 'Inter', sans-serif;
+$background-color_1: #ffffff;
+$background-color_2: #023047;
+$background-color_3: #219ebc;
+$background-color_4: transparent;
+$background-color_5: #000;
+$background-color_6: #fff;
+$background-color_7: #e7ebee;
+$background-color_8: #e5e5e5;
+$border-color_1: #d9d9d9;
